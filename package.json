@@ -1,5 +1,5 @@
 {
-  "name": "ra-data-nestjsx-crud-fork",
+  "name": "root",
   "version": "0.0.1",
   "private": true,
   "workspaces": [
